@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Covid 19</string>
+    <string name="covid_hakkinda">Yeni Koronavirüs Hastalığı (COVID-19), ilk olarak Çin’in Vuhan Eyaleti’nde Aralık ayının sonlarında solunum yolu belirtileri (ateş, öksürük, nefes darlığı) gelişen bir grup hastada yapılan araştırmalar sonucunda 13 Ocak 2020’de tanımlanan bir virüstür.</string>
+    <string name="covid_detay">Koronavirüs hastalığı (COVID-19), yeni keşfedilen bir koronavirüsün neden olduğu bulaşıcı bir hastalıktır. COVID-19 ile hastalanan çoğu insan, hafif ila orta şiddette semptomlar yaşayacak ve özel tedavi olmaksızın iyileşecektir.</string>
+    <string name="covid_detay_iki">COVID-19\'a neden olan virüs, çoğunlukla enfekte bir kişi öksürdüğünde, hapşırdığında veya nefes verdiğinde oluşan damlacıklar yoluyla bulaşır. Bu damlacıklar havada asılı kalamayacak kadar ağırdır ve hızla yere veya yüzeylere düşer. \n \nCOVID-19 olan birinin yakınındaysanız virüsü soluyarak veya bir yüzeye ve ardından gözlerinize, burnunuza veya ağzınıza dokunarak enfekte olabilirsiniz.</string>
+    <string name="kayan_yazi">*****2019\'da cereyan eden coronavirüs hastalığı yurdumuzda da şiddetli bir seyirde insanların sağlığını riske atmaktadır. Bizim yapmamız gereken en önemli şey ise önlem almaktır. Eğer hastalığa yakalndıysak doktor tavsiyelerine uygun olarak tedaviye devam edersek yüksek ihtimalle hastalığı kolay bir şekilde atlatabilirsiniz*****Hazırlayanlar>>> ***MUSTAFA MUHARREM AYDIN*** ***BUSE RUMEYSA KAPKINER*** ***MELİKE TAKAN*** ***TRAKYA ÜNİVERSİTESİ*** ***2020***   </string>
+    <string name="nasil_bulasir">NASIL BULAŞIR ?</string>
+    <string name="daha_fazlas">Daha Fazlası</string>
+    <string name="covid_19_detayl_veri">COVID-19 Detaylı Veri</string>
+    <string name="toplam_test">TOPLAM TEST</string>
+    <string name="kr_t_k_vaka">KRİTİK VAKA</string>
+    <string name="aktif_vaka">AKTİF VAKA</string>
+    <string name="bugun_veri">BUGÜN AÇIKLANAN VAKA</string>
+    <string name="bugun_iyilesen">BUGÜN AÇIKLANAN İYİLEŞEN</string>
+    <string name="bugun_olum">BUGÜN AÇIKLANAN ÖLÜM</string>
+    <string name="mn_test">BİR MİLYONDAKİ TEST</string>
+    <string name="mn_vaka">BİR MİLYONDAKİ VAKA</string>
+    <string name="mn_olum">BİR MİLYONDAKİ ÖLÜM</string>
+    <string name="covid_19">COVID-19</string>
+    <string name="vaka">VAKA</string>
+    <string name="iyilesenn">İYİLEŞEN</string>
+    <string name="olum">ÖLÜM</string>
+    <string name="semptomlar">Semptomlar</string>
+    <string name="hepsini_g_ster">hepsini göster</string>
+    <string name="covid_hakkinda_daha_fazla">COVİD-19 Hakkında Daha Fazla Bilgi Edin</string>
+    <string name="daha_fazla">Daha Fazla</string>
+    <string name="onlemler">Önlemler</string>
+    <string name="korona">koronavirüs resmi</string>
+    <string name="hasta_kadin">hasta kadın resmi</string>
+    <string name="basla">Başla</string>
+    <string name="sag_ok">sağa yönelik ok</string>
+    <string name="oksuren_adam">önlem resmi</string>
+    <string name="stay_home">Evde kal</string>
+    <string name="semptom_resmi">Semptom Resmi</string>
+    <string name="kuru_oksuruk">kuru öksürük</string>
+    <string name="veri">3707</string>
+</resources>
